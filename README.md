@@ -11,5 +11,7 @@ pip install finrlpt
 
 # Usage (some examples)
 from finrlpt import *
+
 from finrlpt import paper_trade
+
 from finrlpt import <function name>
