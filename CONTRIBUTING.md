@@ -1,5 +1,6 @@
 Project TODO list:
 TBD
+
 Prerequisites:
 1. Install python
 2. Install Jupyter notebook
